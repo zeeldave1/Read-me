@@ -30,11 +30,4 @@
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [your-username](https://github.com/your-username)  
-- LinkedIn: [your-link](https://linkedin.com/in/your-link)  
-- Email: your-email@example.com  
-
----
-
 ⭐ *"Technology can either weaken or strengthen us — I choose to strengthen through Cybersecurity."*
